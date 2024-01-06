@@ -1,7 +1,19 @@
 h1 {
   text-align: center;
+  color: blueviolet;
+  text-shadow: 3px 3px 3px #000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 52px;
 }
 
 h2 {
   text-align: center;
+}
+
+.contact-info h1 {
+  background-color: bisque;
+  padding: 20px;
+  height: 80px;
+  width: 200px;
+  margin: 20px auto;
 }

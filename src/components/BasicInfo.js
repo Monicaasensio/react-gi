@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 export default class BasicInfo extends Component {
-
+//define each prop value wanted to display on the front end
   render() {
     return (
       <div>
